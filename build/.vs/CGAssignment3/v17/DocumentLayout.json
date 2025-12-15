@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zhzss\\Desktop\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6137B56A-6FE8-32CC-BAED-9AAD6874A61A}|CGAssignment3.vcxproj|C:\\Users\\zhzss\\Desktop\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6137B56A-6FE8-32CC-BAED-9AAD6874A61A}|CGAssignment3.vcxproj|C:\\Users\\zhzss\\Desktop\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\hittable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6137B56A-6FE8-32CC-BAED-9AAD6874A61A}|CGAssignment3.vcxproj|C:\\Users\\zhzss\\Desktop\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6137B56A-6FE8-32CC-BAED-9AAD6874A61A}|CGAssignment3.vcxproj|C:\\Users\\zhzss\\Desktop\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\rtweekend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sphere.h",
+              "DocumentMoniker": "C:\\Users\\zhzss\\Desktop\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\sphere.h",
+              "RelativeDocumentMoniker": "..\\src\\sphere.h",
+              "ToolTip": "C:\\Users\\zhzss\\Desktop\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\sphere.h",
+              "RelativeToolTip": "..\\src\\sphere.h",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvysAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-15T12:05:41.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hittable.h",
+              "DocumentMoniker": "C:\\Users\\zhzss\\Desktop\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\hittable.h",
+              "RelativeDocumentMoniker": "..\\src\\hittable.h",
+              "ToolTip": "C:\\Users\\zhzss\\Desktop\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\hittable.h",
+              "RelativeToolTip": "..\\src\\hittable.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-15T12:00:23.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rtweekend.h",
+              "DocumentMoniker": "C:\\Users\\zhzss\\Desktop\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\rtweekend.h",
+              "RelativeDocumentMoniker": "..\\src\\rtweekend.h",
+              "ToolTip": "C:\\Users\\zhzss\\Desktop\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\rtweekend.h",
+              "RelativeToolTip": "..\\src\\rtweekend.h",
+              "ViewState": "AgIAACoAAAAAAAAAAADwv0AAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-15T11:25:16.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\zhzss\\Desktop\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\main.cpp",
+              "RelativeDocumentMoniker": "..\\src\\main.cpp",
+              "ToolTip": "C:\\Users\\zhzss\\Desktop\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\main.cpp",
+              "RelativeToolTip": "..\\src\\main.cpp",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAqwLMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-15T04:25:03.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

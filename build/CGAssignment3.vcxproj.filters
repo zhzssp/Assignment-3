@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\zhzss\Desktop\图形学Assignment3\Ray_Tracing\CGAssignment3\src\WindowsApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\zhzss\Desktop\图形学Assignment3\Ray_Tracing\CGAssignment3\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\zhzss\Desktop\图形学Assignment3\Ray_Tracing\CGAssignment3\src\WindowsApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\zhzss\Desktop\图形学Assignment3\Ray_Tracing\CGAssignment3\src\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\zhzss\Desktop\图形学Assignment3\Ray_Tracing\CGAssignment3\src\hittable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\zhzss\Desktop\图形学Assignment3\Ray_Tracing\CGAssignment3\src\hittable_list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\zhzss\Desktop\图形学Assignment3\Ray_Tracing\CGAssignment3\src\ray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\zhzss\Desktop\图形学Assignment3\Ray_Tracing\CGAssignment3\src\rtweekend.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\zhzss\Desktop\图形学Assignment3\Ray_Tracing\CGAssignment3\src\sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\zhzss\Desktop\图形学Assignment3\Ray_Tracing\CGAssignment3\src\vec3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\zhzss\Desktop\图形学Assignment3\Ray_Tracing\CGAssignment3\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{000D942D-FCBF-37AB-A860-8D63ECF2F2C2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0EC05F07-66D9-36D1-8E0F-AC3F425E4CB5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
