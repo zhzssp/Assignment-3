@@ -31,17 +31,19 @@ THE SOFTWARE.*/
 #include "hittable_list.h"
 #include "sphere.h"
 #include "camera.h"
+#include "material.h"
 
 static std::vector<std::vector<color>> gCanvas;		//Canvas
 
 // The width and height of the screen
-const auto aspect_ratio = 16.0 / 9.0;
-const int gWidth = 800;
+const auto aspect_ratio = 3.0 / 2.0;
+const int gWidth = 1200;
 const int gHeight = static_cast<int>(gWidth / aspect_ratio);
 
 void rendering();
 color ray_color(const ray& r, const hittable& world, int depth);
 double hit_sphere(const point3& center, double radius, const ray& r);
+hittable_list random_scene();
 
 int main(int argc, char* args[])
 {
@@ -101,10 +103,6 @@ void write_color(int x, int y, color pixel_color, int samples_per_pixel)
 	g = sqrt(scale * g);
 	b = sqrt(scale * b);
 
-	//r = scale * r;
-	//g = scale * g;
-	//b = scale * b;
-
 	// 在屏幕上进行渲染显示的时候，必须使用[0, 1]（float）区间，而不是写文件时的[0, 255]（int）
 	color new_pixel_color(
 		clamp(r, 0.0, 0.999),
@@ -114,7 +112,6 @@ void write_color(int x, int y, color pixel_color, int samples_per_pixel)
 
 	// Note: x -> the column number, y -> the row number
 	gCanvas[y][x] = new_pixel_color;
-
 }
 
 void rendering()
@@ -127,16 +124,20 @@ void rendering()
 	// Image
 	const int image_width = gWidth;
 	const int image_height = gHeight;
-	const int samples_per_pixel = 100;
+	const int samples_per_pixel = 500;
 	const int max_depth = 50;
 
 	// World
-	hittable_list world;
-	world.add(make_shared<sphere>(point3(0, 0, -1), 0.5));
-	world.add(make_shared<sphere>(point3(0, -100.5, -1), 100));
+	auto world = random_scene();
 
 	// Camera --> 本质上是一个光线发射器
-	camera cam;
+	point3 lookfrom(13, 2, 3);
+	point3 lookat(0, 0, 0);
+	vec3 vup(0, 1, 0);
+	auto dist_to_focus = 10.0;
+	auto aperture = 0.1;
+
+	camera cam(lookfrom, lookat, vup, 20, aspect_ratio, aperture, dist_to_focus);
 
 	// Render
 
@@ -177,9 +178,11 @@ color ray_color(const ray& r, const hittable& world, int depth) {
 
 	// 千万不能检测t = 0，因为那样会导致自交 --> t_min改为1e-6
 	if (world.hit(r, 1e-6, infinity, rec)) {
-		point3 target = rec.p + random_in_hemisphere(rec.normal);
-		return 0.5 * ray_color(ray(rec.p, target - rec.p), world, depth - 1);
-		/*return 0.5 * (rec.normal + color(1, 1, 1));*/
+		ray scattered;
+		color attenuation;
+		if (rec.mat_ptr->scatter(r, rec, attenuation, scattered))
+			return attenuation * ray_color(scattered, world, depth - 1);
+		return color(0, 0, 0);
 	}
 	vec3 unit_direction = unit_vector(r.direction());
 	auto t = 0.5 * (unit_direction.y() + 1.0);
@@ -199,4 +202,48 @@ double hit_sphere(const point3& center, double radius, const ray& r) {
 		// 存在解时返回近端的交点
 		return (-b - sqrt(discriminant)) / (2.0 * a);
 	}
+}
+
+hittable_list random_scene() {
+	hittable_list world;
+	auto ground_material = make_shared<lambertian>(color(0.5, 0.5, 0.5));
+	world.add(make_shared<sphere>(point3(0, -1000, 0), 1000, ground_material));
+	for (int a = -11; a < 11; a++) {
+		for (int b = -11; b < 11; b++) {
+			auto choose_mat = random_double();
+			point3 center(a + 0.9 * random_double(), 0.2, b +
+				0.9 * random_double());
+			if ((center - point3(4, 0.2, 0)).length() > 0.9) {
+				shared_ptr<material> sphere_material;
+				if (choose_mat < 0.8) {
+					// diffuse
+					auto albedo = random() * random();
+					sphere_material = make_shared<lambertian>(albedo);
+					world.add(make_shared<sphere>(center, 0.2,
+						sphere_material));
+				}
+				else if (choose_mat < 0.95) {
+					// metal
+					auto albedo = random(0.5, 1);
+					auto fuzz = random_double(0, 0.5);
+					sphere_material = make_shared<metal>(albedo, fuzz);
+					world.add(make_shared<sphere>(center, 0.2,
+						sphere_material));
+				}
+				else {
+					// glass
+					sphere_material = make_shared<dielectric>(1.5);
+					world.add(make_shared<sphere>(center, 0.2,
+						sphere_material));
+				}
+			}
+		}
+	}
+	auto material1 = make_shared<dielectric>(1.5);
+	world.add(make_shared<sphere>(point3(0, 1, 0), 1.0, material1));
+	auto material2 = make_shared<lambertian>(color(0.4, 0.2, 0.1));
+	world.add(make_shared<sphere>(point3(-4, 1, 0), 1.0, material2));
+	auto material3 = make_shared<metal>(color(0.7, 0.6, 0.5), 0.0);
+	world.add(make_shared<sphere>(point3(4, 1, 0), 1.0, material3));
+	return world;
 }
