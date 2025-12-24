@@ -1,6 +1,6 @@
-^C:\USERS\ZHZSS\DESKTOP\图形学ASSIGNMENT3\RAY_TRACING\CGASSIGNMENT3\BUILD\CMAKEFILES\983A6277F324341EAFA8725701DF7ADB\GENERATE.STAMP.RULE
+^E:\图形学ASSIGNMENT3\RAY_TRACING\CGASSIGNMENT3\BUILD\CMAKEFILES\87B003150FCABE4DB6A39723C98F849A\GENERATE.STAMP.RULE
 setlocal
-D:\Cmake\bin\cmake.exe -SC:/Users/zhzss/Desktop/图形学Assignment3/Ray_Tracing/CGAssignment3 -BC:/Users/zhzss/Desktop/图形学Assignment3/Ray_Tracing/CGAssignment3/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/zhzss/Desktop/图形学Assignment3/Ray_Tracing/CGAssignment3/build/CGAssignment3.sln
+D:\Cmake\bin\cmake.exe -SE:/图形学Assignment3/Ray_Tracing/CGAssignment3 -BE:/图形学Assignment3/Ray_Tracing/CGAssignment3/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/图形学Assignment3/Ray_Tracing/CGAssignment3/build/CGAssignment3.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

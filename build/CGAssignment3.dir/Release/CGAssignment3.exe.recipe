@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\zhzss\Desktop\图形学Assignment3\Ray_Tracing\CGAssignment3\build\Release\ZERO_CHECK</FullPath>
+      <FullPath>E:\图形学Assignment3\Ray_Tracing\CGAssignment3\build\Release\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\zhzss\Desktop\图形学Assignment3\Ray_Tracing\CGAssignment3\build\Release\CGAssignment3.exe</FullPath>
+      <FullPath>E:\图形学Assignment3\Ray_Tracing\CGAssignment3\build\Release\CGAssignment3.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

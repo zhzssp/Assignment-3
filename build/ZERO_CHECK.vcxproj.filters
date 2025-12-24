@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\zhzss\Desktop\图形学Assignment3\Ray_Tracing\CGAssignment3\build\CMakeFiles\983a6277f324341eafa8725701df7adb\generate.stamp.rule">
+    <CustomBuild Include="E:\图形学Assignment3\Ray_Tracing\CGAssignment3\build\CMakeFiles\87b003150fcabe4db6a39723c98f849a\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{AD722CD3-D676-3FA1-BC2D-293C56A3263E}</UniqueIdentifier>
+      <UniqueIdentifier>{EC9432DF-1943-3FF4-9235-375D2FA356C2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

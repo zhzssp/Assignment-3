@@ -1,9 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zhzss\\Desktop\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\build\\",
+  "WorkspaceRootPath": "E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\build\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6137B56A-6FE8-32CC-BAED-9AAD6874A61A}|CGAssignment3.vcxproj|C:\\Users\\zhzss\\Desktop\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{618CA98A-6CF7-315D-B2B0-0E8A4D8063FB}|CGAssignment3.vcxproj|E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618CA98A-6CF7-315D-B2B0-0E8A4D8063FB}|CGAssignment3.vcxproj|E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618CA98A-6CF7-315D-B2B0-0E8A4D8063FB}|CGAssignment3.vcxproj|E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\hittable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618CA98A-6CF7-315D-B2B0-0E8A4D8063FB}|CGAssignment3.vcxproj|E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618CA98A-6CF7-315D-B2B0-0E8A4D8063FB}|CGAssignment3.vcxproj|E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\rtweekend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618CA98A-6CF7-315D-B2B0-0E8A4D8063FB}|CGAssignment3.vcxproj|E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\hittable_list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618CA98A-6CF7-315D-B2B0-0E8A4D8063FB}|CGAssignment3.vcxproj|E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618CA98A-6CF7-315D-B2B0-0E8A4D8063FB}|CGAssignment3.vcxproj|E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +40,104 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\zhzss\\Desktop\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\main.cpp",
+              "DocumentMoniker": "E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\main.cpp",
               "RelativeDocumentMoniker": "..\\src\\main.cpp",
-              "ToolTip": "C:\\Users\\zhzss\\Desktop\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\main.cpp",
+              "ToolTip": "E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\main.cpp",
               "RelativeToolTip": "..\\src\\main.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAkwIkAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAOUBAAAAAAAAAAAAAPABAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-15T04:25:03.186Z",
+              "WhenOpened": "2025-12-24T02:51:36.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "material.h",
+              "DocumentMoniker": "E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\material.h",
+              "RelativeDocumentMoniker": "..\\src\\material.h",
+              "ToolTip": "E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\material.h",
+              "RelativeToolTip": "..\\src\\material.h",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowHkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-24T03:17:37.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hittable.h",
+              "DocumentMoniker": "E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\hittable.h",
+              "RelativeDocumentMoniker": "..\\src\\hittable.h",
+              "ToolTip": "E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\hittable.h",
+              "RelativeToolTip": "..\\src\\hittable.h",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAowIEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-24T03:34:41.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sphere.h",
+              "DocumentMoniker": "E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\sphere.h",
+              "RelativeDocumentMoniker": "..\\src\\sphere.h",
+              "ToolTip": "E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\sphere.h",
+              "RelativeToolTip": "..\\src\\sphere.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-24T03:35:31.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "rtweekend.h",
+              "DocumentMoniker": "E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\rtweekend.h",
+              "RelativeDocumentMoniker": "..\\src\\rtweekend.h",
+              "ToolTip": "E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\rtweekend.h",
+              "RelativeToolTip": "..\\src\\rtweekend.h",
+              "ViewState": "AgIAADMAAAAAAAAAAADwv1AAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-24T03:39:30.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hittable_list.h",
+              "DocumentMoniker": "E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\hittable_list.h",
+              "RelativeDocumentMoniker": "..\\src\\hittable_list.h",
+              "ToolTip": "E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\hittable_list.h",
+              "RelativeToolTip": "..\\src\\hittable_list.h",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-24T03:37:09.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "camera.h",
+              "DocumentMoniker": "E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\camera.h",
+              "RelativeDocumentMoniker": "..\\src\\camera.h",
+              "ToolTip": "E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\camera.h",
+              "RelativeToolTip": "..\\src\\camera.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvzQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-24T03:10:54.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ray.h",
+              "DocumentMoniker": "E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\ray.h",
+              "RelativeDocumentMoniker": "..\\src\\ray.h",
+              "ToolTip": "E:\\\u56FE\u5F62\u5B66Assignment3\\Ray_Tracing\\CGAssignment3\\src\\ray.h",
+              "RelativeToolTip": "..\\src\\ray.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-24T03:10:11.111Z",
               "EditorCaption": ""
             }
           ]

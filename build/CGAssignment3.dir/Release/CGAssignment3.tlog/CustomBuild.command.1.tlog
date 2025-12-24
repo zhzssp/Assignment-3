@@ -1,6 +1,6 @@
-^C:\USERS\ZHZSS\DESKTOP\图形学ASSIGNMENT3\RAY_TRACING\CGASSIGNMENT3\CMAKELISTS.TXT
+^E:\图形学ASSIGNMENT3\RAY_TRACING\CGASSIGNMENT3\CMAKELISTS.TXT
 setlocal
-D:\Cmake\bin\cmake.exe -SC:/Users/zhzss/Desktop/图形学Assignment3/Ray_Tracing/CGAssignment3 -BC:/Users/zhzss/Desktop/图形学Assignment3/Ray_Tracing/CGAssignment3/build --check-stamp-file C:/Users/zhzss/Desktop/图形学Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/generate.stamp
+D:\Cmake\bin\cmake.exe -SE:/图形学Assignment3/Ray_Tracing/CGAssignment3 -BE:/图形学Assignment3/Ray_Tracing/CGAssignment3/build --check-stamp-file E:/图形学Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

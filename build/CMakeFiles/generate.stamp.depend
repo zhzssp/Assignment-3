@@ -1,9 +1,4 @@
 # CMake generation dependency list for this directory.
-C:/Users/zhzss/Desktop/图形学Assignment3/Ray_Tracing/CGAssignment3/CMakeLists.txt
-C:/Users/zhzss/Desktop/图形学Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/4.1.1/CMakeCCompiler.cmake
-C:/Users/zhzss/Desktop/图形学Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/4.1.1/CMakeCXXCompiler.cmake
-C:/Users/zhzss/Desktop/图形学Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/4.1.1/CMakeRCCompiler.cmake
-C:/Users/zhzss/Desktop/图形学Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/4.1.1/CMakeSystem.cmake
 D:/Cmake/share/cmake-4.1/Modules/CMakeCCompiler.cmake.in
 D:/Cmake/share/cmake-4.1/Modules/CMakeCCompilerABI.c
 D:/Cmake/share/cmake-4.1/Modules/CMakeCInformation.cmake
@@ -116,3 +111,8 @@ D:/Cmake/share/cmake-4.1/Modules/Platform/Windows-MSVC-CXX.cmake
 D:/Cmake/share/cmake-4.1/Modules/Platform/Windows-MSVC.cmake
 D:/Cmake/share/cmake-4.1/Modules/Platform/Windows.cmake
 D:/Cmake/share/cmake-4.1/Modules/Platform/WindowsPaths.cmake
+E:/图形学Assignment3/Ray_Tracing/CGAssignment3/CMakeLists.txt
+E:/图形学Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/4.1.1/CMakeCCompiler.cmake
+E:/图形学Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/4.1.1/CMakeCXXCompiler.cmake
+E:/图形学Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/4.1.1/CMakeRCCompiler.cmake
+E:/图形学Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/4.1.1/CMakeSystem.cmake

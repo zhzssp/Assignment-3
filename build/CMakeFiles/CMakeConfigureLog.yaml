@@ -131,9 +131,9 @@ events:
       The output was:
       0
       閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.14.23+b0019275e
-      鐢熸垚鍚姩鏃堕棿涓?2025/12/15 12:24:13銆?
+      鐢熸垚鍚姩鏃堕棿涓?2025/12/24 10:50:11銆?
       
-      鑺傜偣 1 涓婄殑椤圭洰鈥淐:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)銆?
+      鑺傜偣 1 涓婄殑椤圭洰鈥淓:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)銆?
       PrepareForBuild:
         姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\鈥濄€?
         宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
@@ -149,13 +149,13 @@ events:
         CMakeCCompilerId.c
       Link:
         D:\\VS\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x86\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"E:\\vcpkg\\installed\\x86-windows\\lib" /LIBPATH:"E:\\vcpkg\\installed\\x86-windows\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib "E:\\vcpkg\\installed\\x86-windows\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\\CMakeCCompilerId.obj
-        CompilerIdC.vcxproj -> C:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdC\\CompilerIdC.exe
+        CompilerIdC.vcxproj -> E:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdC\\CompilerIdC.exe
       AppLocalFromInstalled:
-        pwsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdC\\CompilerIdC.exe" "E:\\vcpkg\\installed\\x86-windows\\bin" "Debug\\CompilerIdC.tlog\\CompilerIdC.write.1u.tlog" "Debug\\vcpkg.applocal.log"
+        pwsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "E:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdC\\CompilerIdC.exe" "E:\\vcpkg\\installed\\x86-windows\\bin" "Debug\\CompilerIdC.tlog\\CompilerIdC.write.1u.tlog" "Debug\\vcpkg.applocal.log"
         'pwsh.exe' 涓嶆槸鍐呴儴鎴栧閮ㄥ懡浠わ紝涔熶笉鏄彲杩愯鐨勭▼搴?
         鎴栨壒澶勭悊鏂囦欢銆?
-        鍛戒护鈥減wsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdC\\CompilerIdC.exe" "E:\\vcpkg\\installed\\x86-windows\\bin" "Debug\\CompilerIdC.tlog\\CompilerIdC.write.1u.tlog" "Debug\\vcpkg.applocal.log"鈥濆凡閫€鍑猴紝浠ｇ爜涓?9009銆?
-        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdC\\CompilerIdC.exe" "E:\\vcpkg\\installed\\x86-windows\\bin" "Debug\\CompilerIdC.tlog\\CompilerIdC.write.1u.tlog" "Debug\\vcpkg.applocal.log"
+        鍛戒护鈥減wsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "E:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdC\\CompilerIdC.exe" "E:\\vcpkg\\installed\\x86-windows\\bin" "Debug\\CompilerIdC.tlog\\CompilerIdC.write.1u.tlog" "Debug\\vcpkg.applocal.log"鈥濆凡閫€鍑猴紝浠ｇ爜涓?9009銆?
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "E:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdC\\CompilerIdC.exe" "E:\\vcpkg\\installed\\x86-windows\\bin" "Debug\\CompilerIdC.tlog\\CompilerIdC.write.1u.tlog" "Debug\\vcpkg.applocal.log"
       PostBuildEvent:
         for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
         :VCEnd
@@ -163,13 +163,13 @@ events:
       FinalizeBuildStatus:
         姝ｅ湪鍒犻櫎鏂囦欢鈥淒ebug\\CompilerIdC.tlog\\unsuccessfulbuild鈥濄€?
         姝ｅ湪瀵光€淒ebug\\CompilerIdC.tlog\\CompilerIdC.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-      宸插畬鎴愮敓鎴愰」鐩€淐:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+      宸插畬鎴愮敓鎴愰」鐩€淓:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
       
       宸叉垚鍔熺敓鎴愩€?
           0 涓鍛?
           0 涓敊璇?
       
-      宸茬敤鏃堕棿 00:00:00.77
+      宸茬敤鏃堕棿 00:00:05.58
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -177,7 +177,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
       
       The C compiler identification is MSVC, found in:
-        C:/Users/zhzss/Desktop/图形学Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/4.1.1/CompilerIdC/CompilerIdC.exe
+        E:/图形学Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/4.1.1/CompilerIdC/CompilerIdC.exe
       
   -
     kind: "find-v1"
@@ -1291,9 +1291,9 @@ events:
       The output was:
       0
       閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.14.23+b0019275e
-      鐢熸垚鍚姩鏃堕棿涓?2025/12/15 12:24:14銆?
+      鐢熸垚鍚姩鏃堕棿涓?2025/12/24 10:50:19銆?
       
-      鑺傜偣 1 涓婄殑椤圭洰鈥淐:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)銆?
+      鑺傜偣 1 涓婄殑椤圭洰鈥淓:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)銆?
       PrepareForBuild:
         姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\鈥濄€?
         宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
@@ -1309,13 +1309,13 @@ events:
         CMakeCXXCompilerId.cpp
       Link:
         D:\\VS\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x86\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"E:\\vcpkg\\installed\\x86-windows\\lib" /LIBPATH:"E:\\vcpkg\\installed\\x86-windows\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib "E:\\vcpkg\\installed\\x86-windows\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\\CMakeCXXCompilerId.obj
-        CompilerIdCXX.vcxproj -> C:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdCXX\\CompilerIdCXX.exe
+        CompilerIdCXX.vcxproj -> E:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdCXX\\CompilerIdCXX.exe
       AppLocalFromInstalled:
-        pwsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdCXX\\CompilerIdCXX.exe" "E:\\vcpkg\\installed\\x86-windows\\bin" "Debug\\CompilerIdCXX.tlog\\CompilerIdCXX.write.1u.tlog" "Debug\\vcpkg.applocal.log"
+        pwsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "E:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdCXX\\CompilerIdCXX.exe" "E:\\vcpkg\\installed\\x86-windows\\bin" "Debug\\CompilerIdCXX.tlog\\CompilerIdCXX.write.1u.tlog" "Debug\\vcpkg.applocal.log"
         'pwsh.exe' 涓嶆槸鍐呴儴鎴栧閮ㄥ懡浠わ紝涔熶笉鏄彲杩愯鐨勭▼搴?
         鎴栨壒澶勭悊鏂囦欢銆?
-        鍛戒护鈥減wsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdCXX\\CompilerIdCXX.exe" "E:\\vcpkg\\installed\\x86-windows\\bin" "Debug\\CompilerIdCXX.tlog\\CompilerIdCXX.write.1u.tlog" "Debug\\vcpkg.applocal.log"鈥濆凡閫€鍑猴紝浠ｇ爜涓?9009銆?
-        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdCXX\\CompilerIdCXX.exe" "E:\\vcpkg\\installed\\x86-windows\\bin" "Debug\\CompilerIdCXX.tlog\\CompilerIdCXX.write.1u.tlog" "Debug\\vcpkg.applocal.log"
+        鍛戒护鈥減wsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "E:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdCXX\\CompilerIdCXX.exe" "E:\\vcpkg\\installed\\x86-windows\\bin" "Debug\\CompilerIdCXX.tlog\\CompilerIdCXX.write.1u.tlog" "Debug\\vcpkg.applocal.log"鈥濆凡閫€鍑猴紝浠ｇ爜涓?9009銆?
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "E:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdCXX\\CompilerIdCXX.exe" "E:\\vcpkg\\installed\\x86-windows\\bin" "Debug\\CompilerIdCXX.tlog\\CompilerIdCXX.write.1u.tlog" "Debug\\vcpkg.applocal.log"
       PostBuildEvent:
         for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
         :VCEnd
@@ -1323,13 +1323,13 @@ events:
       FinalizeBuildStatus:
         姝ｅ湪鍒犻櫎鏂囦欢鈥淒ebug\\CompilerIdCXX.tlog\\unsuccessfulbuild鈥濄€?
         姝ｅ湪瀵光€淒ebug\\CompilerIdCXX.tlog\\CompilerIdCXX.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-      宸插畬鎴愮敓鎴愰」鐩€淐:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+      宸插畬鎴愮敓鎴愰」鐩€淓:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\4.1.1\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
       
       宸叉垚鍔熺敓鎴愩€?
           0 涓鍛?
           0 涓敊璇?
       
-      宸茬敤鏃堕棿 00:00:00.73
+      宸茬敤鏃堕棿 00:00:01.86
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -1337,7 +1337,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
       
       The CXX compiler identification is MSVC, found in:
-        C:/Users/zhzss/Desktop/图形学Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/4.1.1/CompilerIdCXX/CompilerIdCXX.exe
+        E:/图形学Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/4.1.1/CompilerIdCXX/CompilerIdCXX.exe
       
   -
     kind: "find-v1"
@@ -1947,8 +1947,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/zhzss/Desktop/\u56fe\u5f62\u5b66Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/CMakeScratch/TryCompile-wutxfh"
-      binary: "C:/Users/zhzss/Desktop/\u56fe\u5f62\u5b66Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/CMakeScratch/TryCompile-wutxfh"
+      source: "E:/\u56fe\u5f62\u5b66Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/CMakeScratch/TryCompile-pq2tay"
+      binary: "E:/\u56fe\u5f62\u5b66Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/CMakeScratch/TryCompile-pq2tay"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_EXE_LINKER_FLAGS: "/machine:X86"
@@ -1956,49 +1956,49 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/zhzss/Desktop/图形学Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/CMakeScratch/TryCompile-wutxfh'
+        Change Dir: 'E:/图形学Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/CMakeScratch/TryCompile-pq2tay'
         
-        Run Build Command(s): D:/VS/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_bea0d.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): D:/VS/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_d05db.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=17.0 /v:n
         閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.14.23+b0019275e
-        鐢熸垚鍚姩鏃堕棿涓?2025/12/15 12:24:15銆?
+        鐢熸垚鍚姩鏃堕棿涓?2025/12/24 10:50:22銆?
         
-        鑺傜偣 1 涓婄殑椤圭洰鈥淐:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-wutxfh\\cmTC_bea0d.vcxproj鈥?榛樿鐩爣)銆?
+        鑺傜偣 1 涓婄殑椤圭洰鈥淓:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pq2tay\\cmTC_d05db.vcxproj鈥?榛樿鐩爣)銆?
         PrepareForBuild:
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_bea0d.dir\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_d05db.dir\\Debug\\鈥濄€?
           宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
-          姝ｅ湪鍒涘缓鐩綍鈥淐:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-wutxfh\\Debug\\鈥濄€?
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_bea0d.dir\\Debug\\cmTC_bea0d.tlog\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥淓:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pq2tay\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_d05db.dir\\Debug\\cmTC_d05db.tlog\\鈥濄€?
         InitializeBuildStatus:
-          姝ｅ湪鍒涘缓鈥渃mTC_bea0d.dir\\Debug\\cmTC_bea0d.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
-          姝ｅ湪瀵光€渃mTC_bea0d.dir\\Debug\\cmTC_bea0d.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+          姝ｅ湪鍒涘缓鈥渃mTC_d05db.dir\\Debug\\cmTC_d05db.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_d05db.dir\\Debug\\cmTC_d05db.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
         VcpkgTripletSelection:
           Using triplet "x86-windows" from "E:\\vcpkg\\installed\\x86-windows\\"
           Using normalized configuration "Debug"
         ClCompile:
-          D:\\VS\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x86\\CL.exe /c /I"E:\\vcpkg\\installed\\x86-windows\\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_bea0d.dir\\Debug\\\\" /Fd"cmTC_bea0d.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "D:\\Cmake\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
+          D:\\VS\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x86\\CL.exe /c /I"E:\\vcpkg\\installed\\x86-windows\\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_d05db.dir\\Debug\\\\" /Fd"cmTC_d05db.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "D:\\Cmake\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
           鐢ㄤ簬 x86 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.44.35219 鐗?
           鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
-          cl /c /I"E:\\vcpkg\\installed\\x86-windows\\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_bea0d.dir\\Debug\\\\" /Fd"cmTC_bea0d.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "D:\\Cmake\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
+          cl /c /I"E:\\vcpkg\\installed\\x86-windows\\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_d05db.dir\\Debug\\\\" /Fd"cmTC_d05db.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /analyze- /errorReport:queue "D:\\Cmake\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          D:\\VS\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x86\\link.exe /OUT:"C:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-wutxfh\\Debug\\cmTC_bea0d.exe" /INCREMENTAL /ILK:"cmTC_bea0d.dir\\Debug\\cmTC_bea0d.ilk" /NOLOGO /LIBPATH:"E:\\vcpkg\\installed\\x86-windows\\debug\\lib" /LIBPATH:"E:\\vcpkg\\installed\\x86-windows\\debug\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "E:\\vcpkg\\installed\\x86-windows\\debug\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/zhzss/Desktop/鍥惧舰瀛ssignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/CMakeScratch/TryCompile-wutxfh/Debug/cmTC_bea0d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/zhzss/Desktop/鍥惧舰瀛ssignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/CMakeScratch/TryCompile-wutxfh/Debug/cmTC_bea0d.lib" /MACHINE:X86  /machine:X86 cmTC_bea0d.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_bea0d.vcxproj -> C:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-wutxfh\\Debug\\cmTC_bea0d.exe
+          D:\\VS\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x86\\link.exe /OUT:"E:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pq2tay\\Debug\\cmTC_d05db.exe" /INCREMENTAL /ILK:"cmTC_d05db.dir\\Debug\\cmTC_d05db.ilk" /NOLOGO /LIBPATH:"E:\\vcpkg\\installed\\x86-windows\\debug\\lib" /LIBPATH:"E:\\vcpkg\\installed\\x86-windows\\debug\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "E:\\vcpkg\\installed\\x86-windows\\debug\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/鍥惧舰瀛ssignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/CMakeScratch/TryCompile-pq2tay/Debug/cmTC_d05db.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"E:/鍥惧舰瀛ssignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/CMakeScratch/TryCompile-pq2tay/Debug/cmTC_d05db.lib" /MACHINE:X86  /machine:X86 cmTC_d05db.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_d05db.vcxproj -> E:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pq2tay\\Debug\\cmTC_d05db.exe
         AppLocalFromInstalled:
-          pwsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-wutxfh\\Debug\\cmTC_bea0d.exe" "E:\\vcpkg\\installed\\x86-windows\\debug\\bin" "cmTC_bea0d.dir\\Debug\\cmTC_bea0d.tlog\\cmTC_bea0d.write.1u.tlog" "cmTC_bea0d.dir\\Debug\\vcpkg.applocal.log"
+          pwsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "E:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pq2tay\\Debug\\cmTC_d05db.exe" "E:\\vcpkg\\installed\\x86-windows\\debug\\bin" "cmTC_d05db.dir\\Debug\\cmTC_d05db.tlog\\cmTC_d05db.write.1u.tlog" "cmTC_d05db.dir\\Debug\\vcpkg.applocal.log"
           'pwsh.exe' 涓嶆槸鍐呴儴鎴栧閮ㄥ懡浠わ紝涔熶笉鏄彲杩愯鐨勭▼搴?
           鎴栨壒澶勭悊鏂囦欢銆?
-          鍛戒护鈥減wsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-wutxfh\\Debug\\cmTC_bea0d.exe" "E:\\vcpkg\\installed\\x86-windows\\debug\\bin" "cmTC_bea0d.dir\\Debug\\cmTC_bea0d.tlog\\cmTC_bea0d.write.1u.tlog" "cmTC_bea0d.dir\\Debug\\vcpkg.applocal.log"鈥濆凡閫€鍑猴紝浠ｇ爜涓?9009銆?
-          "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-wutxfh\\Debug\\cmTC_bea0d.exe" "E:\\vcpkg\\installed\\x86-windows\\debug\\bin" "cmTC_bea0d.dir\\Debug\\cmTC_bea0d.tlog\\cmTC_bea0d.write.1u.tlog" "cmTC_bea0d.dir\\Debug\\vcpkg.applocal.log"
+          鍛戒护鈥減wsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "E:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pq2tay\\Debug\\cmTC_d05db.exe" "E:\\vcpkg\\installed\\x86-windows\\debug\\bin" "cmTC_d05db.dir\\Debug\\cmTC_d05db.tlog\\cmTC_d05db.write.1u.tlog" "cmTC_d05db.dir\\Debug\\vcpkg.applocal.log"鈥濆凡閫€鍑猴紝浠ｇ爜涓?9009銆?
+          "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "E:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pq2tay\\Debug\\cmTC_d05db.exe" "E:\\vcpkg\\installed\\x86-windows\\debug\\bin" "cmTC_d05db.dir\\Debug\\cmTC_d05db.tlog\\cmTC_d05db.write.1u.tlog" "cmTC_d05db.dir\\Debug\\vcpkg.applocal.log"
         FinalizeBuildStatus:
-          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_bea0d.dir\\Debug\\cmTC_bea0d.tlog\\unsuccessfulbuild鈥濄€?
-          姝ｅ湪瀵光€渃mTC_bea0d.dir\\Debug\\cmTC_bea0d.tlog\\cmTC_bea0d.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-        宸插畬鎴愮敓鎴愰」鐩€淐:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-wutxfh\\cmTC_bea0d.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_d05db.dir\\Debug\\cmTC_d05db.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_d05db.dir\\Debug\\cmTC_d05db.tlog\\cmTC_d05db.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淓:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pq2tay\\cmTC_d05db.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
         
         宸叉垚鍔熺敓鎴愩€?
             0 涓鍛?
             0 涓敊璇?
         
-        宸茬敤鏃堕棿 00:00:00.87
+        宸茬敤鏃堕棿 00:00:01.78
         
       exitCode: 0
   -
@@ -2038,8 +2038,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/zhzss/Desktop/\u56fe\u5f62\u5b66Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/CMakeScratch/TryCompile-qyrz24"
-      binary: "C:/Users/zhzss/Desktop/\u56fe\u5f62\u5b66Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/CMakeScratch/TryCompile-qyrz24"
+      source: "E:/\u56fe\u5f62\u5b66Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/CMakeScratch/TryCompile-21yq4x"
+      binary: "E:/\u56fe\u5f62\u5b66Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/CMakeScratch/TryCompile-21yq4x"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
@@ -2048,49 +2048,49 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/zhzss/Desktop/图形学Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/CMakeScratch/TryCompile-qyrz24'
+        Change Dir: 'E:/图形学Assignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/CMakeScratch/TryCompile-21yq4x'
         
-        Run Build Command(s): D:/VS/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_6d571.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): D:/VS/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_cbe5c.vcxproj /p:Configuration=Debug /p:Platform=Win32 /p:VisualStudioVersion=17.0 /v:n
         閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.14.23+b0019275e
-        鐢熸垚鍚姩鏃堕棿涓?2025/12/15 12:24:16銆?
+        鐢熸垚鍚姩鏃堕棿涓?2025/12/24 10:50:24銆?
         
-        鑺傜偣 1 涓婄殑椤圭洰鈥淐:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qyrz24\\cmTC_6d571.vcxproj鈥?榛樿鐩爣)銆?
+        鑺傜偣 1 涓婄殑椤圭洰鈥淓:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-21yq4x\\cmTC_cbe5c.vcxproj鈥?榛樿鐩爣)銆?
         PrepareForBuild:
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_6d571.dir\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_cbe5c.dir\\Debug\\鈥濄€?
           宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
-          姝ｅ湪鍒涘缓鐩綍鈥淐:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qyrz24\\Debug\\鈥濄€?
-          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_6d571.dir\\Debug\\cmTC_6d571.tlog\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥淓:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-21yq4x\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_cbe5c.dir\\Debug\\cmTC_cbe5c.tlog\\鈥濄€?
         InitializeBuildStatus:
-          姝ｅ湪鍒涘缓鈥渃mTC_6d571.dir\\Debug\\cmTC_6d571.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
-          姝ｅ湪瀵光€渃mTC_6d571.dir\\Debug\\cmTC_6d571.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+          姝ｅ湪鍒涘缓鈥渃mTC_cbe5c.dir\\Debug\\cmTC_cbe5c.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_cbe5c.dir\\Debug\\cmTC_cbe5c.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
         VcpkgTripletSelection:
           Using triplet "x86-windows" from "E:\\vcpkg\\installed\\x86-windows\\"
           Using normalized configuration "Debug"
         ClCompile:
-          D:\\VS\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x86\\CL.exe /c /I"E:\\vcpkg\\installed\\x86-windows\\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /GR /Fo"cmTC_6d571.dir\\Debug\\\\" /Fd"cmTC_6d571.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /analyze- /errorReport:queue "D:\\Cmake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
+          D:\\VS\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x86\\CL.exe /c /I"E:\\vcpkg\\installed\\x86-windows\\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /GR /Fo"cmTC_cbe5c.dir\\Debug\\\\" /Fd"cmTC_cbe5c.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /analyze- /errorReport:queue "D:\\Cmake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
           鐢ㄤ簬 x86 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.44.35219 鐗?
           鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
-          cl /c /I"E:\\vcpkg\\installed\\x86-windows\\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /GR /Fo"cmTC_6d571.dir\\Debug\\\\" /Fd"cmTC_6d571.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /analyze- /errorReport:queue "D:\\Cmake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /I"E:\\vcpkg\\installed\\x86-windows\\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /Oy- /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /GR /Fo"cmTC_cbe5c.dir\\Debug\\\\" /Fd"cmTC_cbe5c.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /analyze- /errorReport:queue "D:\\Cmake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          D:\\VS\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x86\\link.exe /OUT:"C:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qyrz24\\Debug\\cmTC_6d571.exe" /INCREMENTAL /ILK:"cmTC_6d571.dir\\Debug\\cmTC_6d571.ilk" /NOLOGO /LIBPATH:"E:\\vcpkg\\installed\\x86-windows\\debug\\lib" /LIBPATH:"E:\\vcpkg\\installed\\x86-windows\\debug\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "E:\\vcpkg\\installed\\x86-windows\\debug\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/zhzss/Desktop/鍥惧舰瀛ssignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/CMakeScratch/TryCompile-qyrz24/Debug/cmTC_6d571.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/zhzss/Desktop/鍥惧舰瀛ssignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/CMakeScratch/TryCompile-qyrz24/Debug/cmTC_6d571.lib" /MACHINE:X86  /machine:X86 cmTC_6d571.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_6d571.vcxproj -> C:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qyrz24\\Debug\\cmTC_6d571.exe
+          D:\\VS\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x86\\link.exe /OUT:"E:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-21yq4x\\Debug\\cmTC_cbe5c.exe" /INCREMENTAL /ILK:"cmTC_cbe5c.dir\\Debug\\cmTC_cbe5c.ilk" /NOLOGO /LIBPATH:"E:\\vcpkg\\installed\\x86-windows\\debug\\lib" /LIBPATH:"E:\\vcpkg\\installed\\x86-windows\\debug\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "E:\\vcpkg\\installed\\x86-windows\\debug\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/鍥惧舰瀛ssignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/CMakeScratch/TryCompile-21yq4x/Debug/cmTC_cbe5c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"E:/鍥惧舰瀛ssignment3/Ray_Tracing/CGAssignment3/build/CMakeFiles/CMakeScratch/TryCompile-21yq4x/Debug/cmTC_cbe5c.lib" /MACHINE:X86  /machine:X86 cmTC_cbe5c.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_cbe5c.vcxproj -> E:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-21yq4x\\Debug\\cmTC_cbe5c.exe
         AppLocalFromInstalled:
-          pwsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qyrz24\\Debug\\cmTC_6d571.exe" "E:\\vcpkg\\installed\\x86-windows\\debug\\bin" "cmTC_6d571.dir\\Debug\\cmTC_6d571.tlog\\cmTC_6d571.write.1u.tlog" "cmTC_6d571.dir\\Debug\\vcpkg.applocal.log"
+          pwsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "E:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-21yq4x\\Debug\\cmTC_cbe5c.exe" "E:\\vcpkg\\installed\\x86-windows\\debug\\bin" "cmTC_cbe5c.dir\\Debug\\cmTC_cbe5c.tlog\\cmTC_cbe5c.write.1u.tlog" "cmTC_cbe5c.dir\\Debug\\vcpkg.applocal.log"
           'pwsh.exe' 涓嶆槸鍐呴儴鎴栧閮ㄥ懡浠わ紝涔熶笉鏄彲杩愯鐨勭▼搴?
           鎴栨壒澶勭悊鏂囦欢銆?
-          鍛戒护鈥減wsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qyrz24\\Debug\\cmTC_6d571.exe" "E:\\vcpkg\\installed\\x86-windows\\debug\\bin" "cmTC_6d571.dir\\Debug\\cmTC_6d571.tlog\\cmTC_6d571.write.1u.tlog" "cmTC_6d571.dir\\Debug\\vcpkg.applocal.log"鈥濆凡閫€鍑猴紝浠ｇ爜涓?9009銆?
-          "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qyrz24\\Debug\\cmTC_6d571.exe" "E:\\vcpkg\\installed\\x86-windows\\debug\\bin" "cmTC_6d571.dir\\Debug\\cmTC_6d571.tlog\\cmTC_6d571.write.1u.tlog" "cmTC_6d571.dir\\Debug\\vcpkg.applocal.log"
+          鍛戒护鈥減wsh.exe -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "E:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-21yq4x\\Debug\\cmTC_cbe5c.exe" "E:\\vcpkg\\installed\\x86-windows\\debug\\bin" "cmTC_cbe5c.dir\\Debug\\cmTC_cbe5c.tlog\\cmTC_cbe5c.write.1u.tlog" "cmTC_cbe5c.dir\\Debug\\vcpkg.applocal.log"鈥濆凡閫€鍑猴紝浠ｇ爜涓?9009銆?
+          "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "E:\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "E:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-21yq4x\\Debug\\cmTC_cbe5c.exe" "E:\\vcpkg\\installed\\x86-windows\\debug\\bin" "cmTC_cbe5c.dir\\Debug\\cmTC_cbe5c.tlog\\cmTC_cbe5c.write.1u.tlog" "cmTC_cbe5c.dir\\Debug\\vcpkg.applocal.log"
         FinalizeBuildStatus:
-          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_6d571.dir\\Debug\\cmTC_6d571.tlog\\unsuccessfulbuild鈥濄€?
-          姝ｅ湪瀵光€渃mTC_6d571.dir\\Debug\\cmTC_6d571.tlog\\cmTC_6d571.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
-        宸插畬鎴愮敓鎴愰」鐩€淐:\\Users\\zhzss\\Desktop\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qyrz24\\cmTC_6d571.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_cbe5c.dir\\Debug\\cmTC_cbe5c.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_cbe5c.dir\\Debug\\cmTC_cbe5c.tlog\\cmTC_cbe5c.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淓:\\鍥惧舰瀛ssignment3\\Ray_Tracing\\CGAssignment3\\build\\CMakeFiles\\CMakeScratch\\TryCompile-21yq4x\\cmTC_cbe5c.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
         
         宸叉垚鍔熺敓鎴愩€?
             0 涓鍛?
             0 涓敊璇?
         
-        宸茬敤鏃堕棿 00:00:00.92
+        宸茬敤鏃堕棿 00:00:01.79
         
       exitCode: 0
   -
